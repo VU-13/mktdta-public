@@ -408,3 +408,20 @@ date,sector,label,eu_avg,eu_n,us_avg,us_n,bvb_manual,blended_raw,discount,final_
 2026-11-04,oil_gas,Oil & Gas,3.73,1,5.9,3,,4.17,0.25,3.1
 2026-11-04,energy,Energy,14.87,2,15.91,2,,15.08,0.25,11.3
 2026-11-04,defense,Defense,19.53,4,49.73,3,,25.57,0.25,19.2
+2026-11-04,saas,SaaS,22.0,2,47.33,3,,34.66,0.25,26.0
+2026-11-04,it_services,IT Services,10.74,5,15.03,2,,11.6,0.25,8.7
+2026-11-04,manufacturing,Manufacturing,12.1,4,9.63,1,,11.61,0.25,8.7
+2026-11-04,healthcare_services,Healthcare Services,12.61,1,14.75,4,,13.68,0.25,10.3
+2026-11-04,logistics,Logistics,11.43,4,11.4,1,,11.42,0.25,8.6
+2026-11-04,ecommerce,E-commerce,11.94,2,29.74,2,,15.5,0.25,11.6
+2026-11-04,telecom,Telecom,9.6,4,11.58,1,,10.0,0.25,7.5
+2026-11-04,b2b_services,B2B Services,14.26,3,8.76,2,,13.16,0.25,9.9
+2026-11-04,cosmetics_beauty,Cosmetics / Beauty,13.22,2,24.92,3,,15.56,0.25,11.7
+2026-11-04,food,Food,9.9,3,8.34,3,,9.59,0.25,7.2
+2026-11-04,fmcg,FMCG,16.96,2,17.45,2,,17.05,0.25,12.8
+2026-11-04,travel_services,Travel Services,6.35,1,12.9,3,,7.66,0.25,5.7
+2026-11-04,automotive,Automotive,5.93,2,11.08,3,,6.96,0.25,5.2
+2026-11-04,utilities,Utilities,13.76,2,11.73,4,,13.35,0.25,10.0
+2026-11-04,oil_gas,Oil & Gas,3.73,1,5.9,3,,4.17,0.25,3.1
+2026-11-04,energy,Energy,14.87,2,15.91,2,,15.08,0.25,11.3
+2026-11-04,defense,Defense,19.53,4,49.54,3,,25.53,0.25,19.1
